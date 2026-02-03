@@ -487,21 +487,19 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\xentr\\FirstApi\\FirstApi.csproj",
+      "projectUniqueName": "C:\\Users\\xentr\\FirstApiPractice\\FirstApi.csproj",
       "projectName": "FirstApi",
-      "projectPath": "C:\\Users\\xentr\\FirstApi\\FirstApi.csproj",
+      "projectPath": "C:\\Users\\xentr\\FirstApiPractice\\FirstApi.csproj",
       "packagesPath": "C:\\Users\\xentr\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\xentr\\FirstApi\\obj\\",
+      "outputPath": "C:\\Users\\xentr\\FirstApiPractice\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\xentr\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\xentr\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
